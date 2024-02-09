@@ -1,5 +1,4 @@
 # Pacman-game
-# Pacman.
 #### A readme is been made so as users can easily know how to execute the game.
 
 ## Prerequisites.
