@@ -88,6 +88,11 @@ Make sure that public static void main(string[]arg) is been selected during the 
     of points will increased. If the ghost touches the pacman or vice versa the game is over.
 ```
 
-
+### New Game Version---Pacman V2.
+ ```sh 
+    The concept of pacman V2 is the same as Pacman, Thus the only change is that Pacman V2
+    has 5 different level. However to change level the user must complete the intial level
+    first repecting the number of heart.
+```
 
 
