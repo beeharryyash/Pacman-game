@@ -1,5 +1,4 @@
-# Pacman-game in javaFx in collaboration with 
-BALOOMOODY DAREN and YOGHESWAR SURJOO
+# Pacman-game in javaFx in collaboration with BALOOMOODY DAREN and YOGHESWAR SURJOO.
 #### A readme is been made so as users can easily know how to execute the game.
 
 ## Prerequisites.
